@@ -3,7 +3,7 @@ pipeline {
 
     tools {
         maven 'Maven3'
-        dockerTool 'Docker'
+        
     }
 
     stages {
